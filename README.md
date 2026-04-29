@@ -21,32 +21,32 @@
 
 > **Executive Overview — Risk Intelligence at a Glance**
 
-![Executive Overview](photos\Executive.png)
+![Executive Overview](photos/Executive.png)
 ```
 [ Show: Header, Alert Strips, KPI Cards, Donut Charts, Heatmap ]
 ```
 
 > **Risk Register & Cybersecurity — Operational Intelligence**
-![Risk Register & Cybersecurity](photos\risk&cyber.png)
+![Risk Register & Cybersecurity](photos/risk&cyber.png)
 ```
 [ Show: Filters, Scatter Chart, Color-coded Risk Table ]
 ```
 
 > **Cybersecurity Deep Dive — Threat Intelligence**
-![Cybersecurity Deep Dive](photos\cyber.png)
+![Cybersecurity Deep Dive](photos/cyber.png)
 ```
 [ Show: CVSS Box Plot, Threat Actor Pie, Containment Donut ]
 ```
 
 > **KRA/KPI Tracker — Performance Intelligence**
-![KRA/KPI Tracker](photos\KRA_KPI.png)
+![KRA/KPI Tracker](photos/KRA_KPI.png)
 ```
 [ Show: RAG Donut, Department Stacked Bar, Progress Bars ]
 ```
 
 > **AI Risk Advisor — Natural Language Intelligence**
-![AI Risk Advisor](photos\AI1.png)
-![AI Risk Advisor](photos\AI2.png)
+![AI Risk Advisor](photos/AI1.png)
+![AI Risk Advisor](photos/AI2.png)
 ```
 [ Show: Suggested Chips, Query, AI Response with Risk IDs ]
 ```

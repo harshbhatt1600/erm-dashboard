@@ -33,7 +33,7 @@
 ```
 
 > **Cybersecurity Deep Dive — Threat Intelligence**
-![Cybersecurity Deep Dive](photos/cyber.png)
+![Cybersecurity Deep Dive](photos/cyber1.png)
 ```
 [ Show: CVSS Box Plot, Threat Actor Pie, Containment Donut ]
 ```
